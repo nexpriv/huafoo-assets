@@ -1,0 +1,20 @@
+{
+  "name": "HuaFoo",
+  "short_name": "HuaFoo",
+  "theme_color": "#080d1c",
+  "background_color": "#080d1c",
+  "icons": [
+    {
+      "src": "https://nexpriv.github.io/huafoo-assets/icons/variante-2/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://nexpriv.github.io/huafoo-assets/icons/variante-2/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
